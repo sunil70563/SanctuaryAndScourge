@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: 8442c734ac2de7d4290bf10f2fa7db08
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a684790cc53f1bb4ea6f2f6583e67d74
+  - enabled: 1
+    path: Assets/Scenes/MushroomHeights.unity
+    guid: 6e5d78fa6d2b3de4d9c38069389a49b8
+  - enabled: 1
+    path: Assets/Scenes/LevelScene.unity
+    guid: 00518d78def6a38459f3063bc42030ce
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
